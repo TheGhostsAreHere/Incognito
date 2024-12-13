@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: incognito
+    name: theghostsarehere
     runtime: docker
     plan: free
